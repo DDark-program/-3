@@ -17,6 +17,7 @@ namespace Lib_2
     {
         public static int FindClone(DataGridView matr)
         {
+            int orc = 1;
             int res = -1;
             int countNeg = 0;
             int countPos = 0;
